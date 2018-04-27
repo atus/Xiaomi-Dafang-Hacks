@@ -20,7 +20,7 @@
 
 ## Installation of the new Firmware
 
-1. Clone the repository from github. If you are on windows download the repository as zip file.
+1. Clone the repository from github. If you are on windows download the repository as zip file. (Cloning on Windows uses \r\n line endings that Linux can't read and your camera won't work.)
 2. Copy everything from "firmware_mod" folder into the **root** of the microSD
 
 It should look like this:
